@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael.andrade\\Documents\\ContactRegister\\ContactRegister\\ContactRegister.csproj",
+      "projectUniqueName": "C:\\Users\\rafael.andrade\\Documents\\ContactRegister\\ContactRegister.csproj",
       "projectName": "ContactRegister",
-      "projectPath": "C:\\Users\\rafael.andrade\\Documents\\ContactRegister\\ContactRegister\\ContactRegister.csproj",
+      "projectPath": "C:\\Users\\rafael.andrade\\Documents\\ContactRegister\\ContactRegister.csproj",
       "packagesPath": "C:\\Users\\rafael.andrade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael.andrade\\Documents\\ContactRegister\\ContactRegister\\obj\\",
+      "outputPath": "C:\\Users\\rafael.andrade\\Documents\\ContactRegister\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafael.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config"
