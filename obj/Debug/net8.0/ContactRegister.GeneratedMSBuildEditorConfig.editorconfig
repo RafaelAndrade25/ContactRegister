@@ -18,62 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\rafael.andrade\Documents\ContactRegister
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/Contato/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xDb250YXRvXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/Contato/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXENvbnRhdG9cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/rafael.andrade/Documents/ContactRegister/Views/Contato/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -101,14 +45,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/rafael.andrade/Documents/ContactRegister/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/ContactRegister/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXENvbnRhY3RSZWdpc3RlclxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-rlrvdt6bto
-
-[C:/Users/rafael.andrade/Documents/ContactRegister/ContactRegister/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q29udGFjdFJlZ2lzdGVyXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = b-fcti3p5epp
 
 [C:/Users/rafael.andrade/Documents/ContactRegister/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
